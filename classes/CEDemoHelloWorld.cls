@@ -3,4 +3,5 @@ public class CEDemoHelloWorld {
         return 'Hello World!';
     }
     // Comment added to test CI Job
+    // Comment 2 added to test CI Job
 }

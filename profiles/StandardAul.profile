@@ -135,6 +135,11 @@
         <name>copado__UISection__mdt</name>
     </customMetadataTypeAccesses>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>CE_Demo_Object__c.My_CE_Demo_Field1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Account.AccountNumber</field>
         <readable>false</readable>

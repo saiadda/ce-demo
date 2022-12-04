@@ -163,6 +163,14 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
+        <fullName>CE_Phone__c</fullName>
+        <externalId>false</externalId>
+        <label>CE Phone#</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
+    <fields>
         <fullName>CE_Demo_Field_Numer__c</fullName>
         <externalId>false</externalId>
         <label>CE Demo Field Numer</label>

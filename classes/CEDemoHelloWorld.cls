@@ -4,4 +4,5 @@ public class CEDemoHelloWorld {
     }
     // Comment to test CI job
     // Comment 1 to test CI job
+    // Comment 2 to test CI job
 }
